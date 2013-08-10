@@ -6,7 +6,7 @@ namespace AlgorithmInsteadDijkstraAndPrimAll
 {
     /// <summary>
     /// Solution if we must destroy all points and all towers
-    /// *this solution is not working in BG-coder vie to the different solution - all towers must be destroyed also
+    /// *this solution is not working in BG-coder due to the different solution - all towers must be destroyed also
     /// </summary>
     class Towers
     {
