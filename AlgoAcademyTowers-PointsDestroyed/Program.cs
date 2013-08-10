@@ -6,7 +6,7 @@ namespace AlgorithmInsteadDijkstraAndPrimPoints
 {
     /// <summary>
     /// Solution if we must destroy all points 
-    /// *this solution is working in BG-coder for 70pts because all the word cases between tower&tower are not coverred
+    /// *this solution is working in BG-coder for 70pts because all the worst cases between tower&tower are not coverred
     /// </summary>
     class Towers
     {
