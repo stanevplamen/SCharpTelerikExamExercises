@@ -8,7 +8,6 @@ namespace FeaturingWithGrisko
 {
     class PermutationWithRepetition
     {
-        private static List<List<int>> combos = new List<List<int>>();
         private static int counter = 0;
 
         static void Main(string[] args)
